@@ -6,4 +6,4 @@ Este é um projeto Angular criado para fins educacionais na Uninter.
 
 - Home Page: Uma página inicial simples com um título e uma breve descrição.
 
-![Home Page](./src/assets/home-page.png)
+![Home Page](./public/pageHome.png)
