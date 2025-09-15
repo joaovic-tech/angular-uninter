@@ -1,0 +1,10 @@
+.title-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #f4f4f5; /* zinc-100 */
+}
